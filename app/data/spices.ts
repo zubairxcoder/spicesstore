@@ -63,7 +63,7 @@ export const spices: Spice[] = [
     color: "#A0782A",
     bgColor: "#FBF3E8",
     featured: false,
-    benefits: ["Lowers blood sugar", "Rich in vitamins", "Anti-bacterial"],
+    benefits: ["Lowers blood sugarrr", "Rich in vitamins", "Anti-bacterial"],
   },
   {
     id: "red-chili-powder",
