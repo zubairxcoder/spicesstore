@@ -24,7 +24,7 @@ export const spices: Spice[] = [
     color: "#E8A020",
     bgColor: "#FFF8E8",
     featured: true,
-    benefits: ["Anti-inflammatory", "Rich in curcumin", "Boosts immunity"],
+    benefits: ["Anti-inflammatory", "Rich inn curcumin", "Boosts immunity"],
   },
   {
     id: "cumin-seeds",
