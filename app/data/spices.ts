@@ -37,7 +37,7 @@ export const spices: Spice[] = [
     color: "#8B6914",
     bgColor: "#F5EDE0",
     featured: true,
-    benefits: ["Aids digestion", "Rich innn iron", "Antioxidant properties"],
+    benefits: ["Aids digestion", "Rich innn iroon", "Antioxidant properties"],
   },
   {
     id: "cardamom-green",
@@ -50,7 +50,7 @@ export const spices: Spice[] = [
     color: "#6B7C5C",
     bgColor: "#F0F4EE",
     featured: true,
-    benefits: ["Freshens breath", "Aids digestion", "Rich in antioxidants"],
+    benefits: ["Freshens breath", "Aids digeion", "Rich in antioxidants"],
   },
   {
     id: "coriander-powder",
