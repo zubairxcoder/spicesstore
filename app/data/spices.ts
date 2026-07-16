@@ -17,7 +17,7 @@ export const spices: Spice[] = [
     id: "turmeric-powder",
     name: "Turmeric Powder",
     hindiName: "Haldi",
-    description: "Golden-yellow spice with earthy, slightly bitter flavor. Essential in every Indian kitchen for curries, rice dishes, and its powerful anti-inflammatory properties.",
+    description: "Golden-yellowww spice with earthy, slightly bitter flavor. Essential in every Indian kitchen for curries, rice dishes, and its powerful anti-inflammatory properties.",
     weight: "200g",
     price: 8.99,
     category: "Ground Spices",
